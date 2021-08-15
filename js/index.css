@@ -1,0 +1,15 @@
+input {
+  width: 38px;
+  height: 38px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#screen {
+  width: 360px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
